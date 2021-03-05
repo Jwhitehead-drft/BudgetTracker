@@ -11,7 +11,7 @@ request.onupgradeneeded = function (event) {
 request.onsuccess = function (event) {
     db = event.target.result;
 
-    // check if app is online before reading from db
+    // check if app is online before reading db
     if (navigator.onLine) {
         checkDatabase();
     }
