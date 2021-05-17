@@ -11,6 +11,9 @@ Application which allows you track credits and debits. Allows name to be allocat
 
 ## Dependencies
 
+## Relevant links 
+ https://github.com/Jwhitehead-drft/BudgetTracker.git   repo
+ https://whispering-scrubland-02633.herokuapp.com/      deployed link
 #### Email
 
 If you have questions regarding this project, you can contact me at Jakeresides@gmail.com. My GitHub user name is jwhithead-drft
@@ -23,5 +26,7 @@ For testing, run the following command:
 ## Knowledge
 You cannot contribute to this repo
 Don't spend it all in once place
+
+
 
 ######You have reached the end of the ReadMe
